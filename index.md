@@ -5,7 +5,11 @@
 - Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
 
 # Lijun Cheng Ph.D
-### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
+### 01/2018-, Assistant professor
+<div class="text-purple">
+ - Department of biomedical informatics, College of medicine, Ohio state university (OSU)
+</div>
+
 - [Introduction on OSU webpage](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
