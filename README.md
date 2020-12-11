@@ -11,22 +11,12 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 
 ## AREA OF EXPERTISE
-### Computational precision medicine in big data mining 
+### Computational precision medicine by artifical intelligence big data mining 
 **The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine.**
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
 - The biomarkers identification to predict the subgroups of patients for whom treatment with a newly developed drug will be more effective than the standard treatment.
 - Molecular mechanisms of drug resistance/disease progression.
 - Efficacy therapeutic target and drug identification combating drug resistance in cancer. 
-
-
-### CONTRIBUTIONs TO SCIENCE
-
-
-**Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
-
-- The full journal publication list can be found in [NCBI MyBibliography Lijun](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
-
-- All papers list on google scholar by [the link](https://scholar.google.com/citations?user=UtDzFE8AAAAJ&hl=en)
 
 
 ### DEVELOPPED SOFTWARE
@@ -59,7 +49,18 @@ Lab members should keep their own pages current, as well as contribute to the la
 - **Doctoral students:** Enze Liu, Aida Yazdanparast 
 - **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
 
+
+### CONTRIBUTIONs TO SCIENCE
+
+**Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
+
+- The full journal publication list can be found in [NCBI MyBibliography Lijun](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
+
+- All papers list on google scholar by [the link](https://scholar.google.com/citations?user=UtDzFE8AAAAJ&hl=en)
+
 ### AREA OF EXPERTISE PAPER
+
+
 **Her contribution to science mainly exists in four aspects (list typical 4 papers):**
 
 #### 1.	Artificial intelligence (AI) graph neural network and learning models for identification tasks
