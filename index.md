@@ -64,8 +64,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 ### AREA OF EXPERTISE PAPER
 
-
-**Her contribution to science mainly exists in four aspects (list typical 4 papers):**
+**Dr.Cheng contribution to science mainly exists in three aspects (list typical 4 papers):**
 
 #### 1.	Artificial intelligence (AI) graph neural network and learning models for pattern recognition tasks
 **Dr.Cheng has developed several graph neural network and learning models and applying them in primary open-angle glaucoma identification by dynamic images analysis, therapeutic target identification from membrane protein interaction networks , and predictive biomarkers identification to chemotherapy response in sarcoma patients. Influence of findings: these AI methods led to a new theory system in machine learning and make these identification task speed fast and accuracy improvement sharply in big data mining. All these finding is published on top tie artificial neural network and learning journals. 1.) IEEE Transaction on neural network and learning systems (impact factor, 11.683). 2.) Neurocomputing (impact factor, 3.317), 3) BMC Medicine Genomics (impact factor, 3.17).**
