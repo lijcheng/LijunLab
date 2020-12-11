@@ -1,7 +1,7 @@
 # Welcome to Lijun Cheng Lab Pages
 
-This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
-Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
+- This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
+- Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
 
 # Lijun Cheng Ph.D
 ### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
@@ -94,4 +94,3 @@ Lab members should keep their own pages current, as well as contribute to the la
 - [2] Enze Liu, Zhuang Zhuang Zhang, Xiaolin Cheng, Xiaoqi Liu, and **Lijun Cheng***, SCNrank: spectral clustering for network-based ranking to reveal potential drug-targets and its application in pancreatic ductal adenocarcinoma. BMC Med Genomics. 2020,13(Suppl 5):50. 
 - [3] **Lijun Cheng**, Bryan P. Schneider and Lang Li*, A Bioinformatics approach for the precision medicine off-label drug usage among triple negative breast cancer patients, the Journal of the American Medical Informatics Association, 2016, pii: ocw004.
 - [4] **Lijun Cheng**, Abhishek Majumdar, Daniel Stover, Shaofeng Wu, Yaoqin Lu, Lang Li. Computational cancer cell models to guide precision breast cancer medicine. Genes (Basel). 2020, 11(3):263. 
-
