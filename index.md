@@ -24,8 +24,11 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 
 ### DEVELOPPED SOFTWARE
-####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) website platform 
-- DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment. A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
+####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
+- DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment.
+- A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. 
+- The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
+- [User evaluation and feedback, usability surveys to DRPM](https://osu.az1.qualtrics.com/jfe/form/SV_24D9IO4eRc6lQnb)
 ####	[TrilogPM platform](https://pcm2019.shinyapps.io/TrilogyPM/)  for precision medicine– “the right treatment, for the right patient, at the right time."
 - TrilogPM, a comprehensive evidence knowledgebase in precision cancer medicine. It is a Shiny web server currently for searching drug, target, and genome variation (biomarkers) in copy number variation, mutation and fusion, and cancer type and associated drug treatment. The system integrated the most famous six precision medicine database together to provide a comprehensive evidence knowledgebase in precision cancer medicine for clinical practice and clinical trial generate hypothesis. 
 - TrilogyPM software is freely available to biomedical researchers and educators in the non-profit sector.
