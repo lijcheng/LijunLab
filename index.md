@@ -24,8 +24,8 @@
 
 ### DEVELOPPED SOFTWARE
 
-####	Precision medicine drug response identification, DRPM (https://pcm2019.shinyapps.io/Drug_Response_Prediction/) website platform 
-- DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. Especially to drug resistance patient, DRPM will recommend optional drug treatment. A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
+####	Precision Medicine System, DRPM (https://pcm2019.shinyapps.io/Drug_Response_Prediction/) website platform 
+- DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment. A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
 ####	TrilogPM platform (https://pcm2019.shinyapps.io/TrilogyPM/)  for precision medicine– “the right treatment, for the right patient, at the right time."
 - TrilogPM, a comprehensive evidence knowledgebase in precision cancer medicine. It is a Shiny web server currently for searching drug, target, and genome variation (biomarkers) in copy number variation, mutation and fusion, and cancer type and associated drug treatment. The system integrated the most famous six precision medicine database together to provide a comprehensive evidence knowledgebase in precision cancer medicine for clinical practice and clinical trial generate hypothesis. 
 - TrilogyPM software is freely available to biomedical researchers and educators in the non-profit sector.
@@ -38,12 +38,17 @@
 - XDeathDB creates a comprehensive search engine of each mode of cell death and their interaction at the gene and pathway relevant to regulation of cell death. With this platform, users can search specific interactions from vast interdependent sub-networks that occur in the realm of cell death, including any genes, any pathways and 12 cell death modes. 
 - XDeathDB is a dynamic interactive system. Users can upload gene-expression profiles linked with phenotypes and create their own networks using their own genes of interest. In addition, users can import dynamic networks from a txt file directly and export dynamic networks to a txt file for further analysis. 
 - XDeathDB implemented dynamic network construction method in a modular way and allow users to freely select and combine these modules to obtain their own network construction.
+#### DGCyTOF, https://github.com/lijcheng/DGCyTOF
+- Mass cytometry, or CyTOF (Fluidigm), is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
+- Mass cytometry is a novel platform for high-dimensional phenotypic and functional analysis of single cells.
 
-####	XDeathDB (https://pcm2019.shinyapps.io/XDeathDB/) is a website on shinyapps cloud. 
+A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
 
 ### STUDENTS
 **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
-- **Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
-- **Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
-- **Doctoral students:** Enze Liu, Aida Yazdanparast 
-- **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
+**Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
+**Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
+**Doctoral students:** Enze Liu, Aida Yazdanparast 
+**Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
+
+
