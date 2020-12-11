@@ -3,29 +3,26 @@
 This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
 Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
 
-### Dr.Lijun Cheng works in department of biomedical informatics, college of medicine, Ohio State University (OSU) as an assistant professor 
+# Welcome to Lijun Cheng Lab Pages
+
+### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
 - [Introduction on OSU](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
+### PREVIOUS POSITIONS
+- 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
+- 04/2014 – 05/2015 	Postdoctoral Fellow, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, IN, U.S.
+- 12/2012 – 03/2014 	Assistant Researcher, Shanghai Jiao Tong University, State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, P. R. China
+- 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. Artificial intelligence pattern identification, electrical engineering and computer science
 
 ## AREA OF EXPERTISE
-### Computational precision medicine in big data mining 
+### Computational precision medicine by artifical intelligence big data mining 
 **The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine.**
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
 - The biomarkers identification to predict the subgroups of patients for whom treatment with a newly developed drug will be more effective than the standard treatment.
 - Molecular mechanisms of drug resistance/disease progression.
 - Efficacy therapeutic target and drug identification combating drug resistance in cancer. 
-
-
-### CONTRIBUTIONs TO SCIENCE
-
-
-**Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
-
-- The full journal publication list can be found in [NCBI MyBibliography Lijun](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
-
-- All papers list on google scholar by [the link](https://scholar.google.com/citations?user=UtDzFE8AAAAJ&hl=en)
 
 
 ### DEVELOPPED SOFTWARE
@@ -58,7 +55,18 @@ Lab members should keep their own pages current, as well as contribute to the la
 - **Doctoral students:** Enze Liu, Aida Yazdanparast 
 - **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
 
+
+### CONTRIBUTIONs TO SCIENCE
+
+**Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
+
+- The full journal publication list can be found in [NCBI MyBibliography Lijun](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
+
+- All papers list on google scholar by [the link](https://scholar.google.com/citations?user=UtDzFE8AAAAJ&hl=en)
+
 ### AREA OF EXPERTISE PAPER
+
+
 **Her contribution to science mainly exists in four aspects (list typical 4 papers):**
 
 #### 1.	Artificial intelligence (AI) graph neural network and learning models for identification tasks
@@ -80,5 +88,4 @@ Lab members should keep their own pages current, as well as contribute to the la
 - [2] Enze Liu, Zhuang Zhuang Zhang, Xiaolin Cheng, Xiaoqi Liu, and **Lijun Cheng***, SCNrank: spectral clustering for network-based ranking to reveal potential drug-targets and its application in pancreatic ductal adenocarcinoma. BMC Med Genomics. 2020,13(Suppl 5):50. 
 - [3] **Lijun Cheng**, Bryan P. Schneider and Lang Li*, A Bioinformatics approach for the precision medicine off-label drug usage among triple negative breast cancer patients, the Journal of the American Medical Informatics Association, 2016, pii: ocw004.
 - [4] **Lijun Cheng**, Abhishek Majumdar, Daniel Stover, Shaofeng Wu, Yaoqin Lu, Lang Li. Computational cancer cell models to guide precision breast cancer medicine. Genes (Basel). 2020, 11(3):263. 
-
 
