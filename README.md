@@ -4,11 +4,17 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 # Welcome to Lijun Cheng Lab Pages
 
-### Dr.Lijun Cheng works in department of biomedical informatics, college of medicine, Ohio State University (OSU) as an assistant professor 
+### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
 - [Introduction on OSU](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
+### PREVIOUS POSITIONS
+- 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
+- 04/2014 – 05/2015 	Postdoctoral Fellow, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, IN, U.S.
+- 12/2012 – 03/2014 	Assistant Researcher, Shanghai Jiao Tong University, State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, P. R. China
+- 09/1998 – 08/2009	Assistant Professor, School of Engineering and Technology, XingJiang Medical University, P. R. China
+- August 2008 – March 2012, Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. Artificial intelligence pattern identification, electrical engineering and computer science
 
 ## AREA OF EXPERTISE
 ### Computational precision medicine by artifical intelligence big data mining 
