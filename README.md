@@ -1,5 +1,4 @@
 # LijunLab
-Lijun Cheng Introduction, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university
 This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Lijun.
 Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
 
@@ -50,10 +49,10 @@ Lab members should keep their own pages current, as well as contribute to the la
 A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
 
 ### STUDENTS
-**Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
-**Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
-**Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
-**Doctoral students:** Enze Liu, Aida Yazdanparast 
-**Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
+- **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
+- **Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
+- **Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
+- **Doctoral students:** Enze Liu, Aida Yazdanparast 
+- **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
 
 
