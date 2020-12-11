@@ -1,7 +1,7 @@
 # Welcome to Lijun Cheng Lab Pages
 
-This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
-Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
+- This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
+- Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
 
 # Lijun Cheng Ph.D
 ### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
