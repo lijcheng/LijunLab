@@ -5,7 +5,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 # Lijun Cheng Ph.D
 ### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
-- [Introduction on OSU](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
+- [Introduction on OSU webpage](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
@@ -23,7 +23,6 @@ Lab members should keep their own pages current, as well as contribute to the la
 - Molecular mechanisms of drug resistance/disease progression.
 - Efficacy therapeutic target and drug identification combating drug resistance in cancer. 
 
-
 ### DEVELOPPED SOFTWARE
 ####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
 - DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment.
@@ -36,7 +35,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 - [User evaluation and feedback, usability surveys to TrilogyPM](https://osu.az1.qualtrics.com/jfe/form/SV_4OrqJwO9vq5P28R)
 ####	[SCNrank](https://pcm2019.shinyapps.io/SCNrank/) platform, for therapeutic targets identification in cancer by a large screening CRISPR-Cas9 guidance
 - A novel artificial intelligence modeling (graph pattern matching and ranking algorithm) with a Shiny web server for potential cancer target identification, target molecular mechanism, and visualization.
-- The potential identified therapiutic targets and target molecular mechanism translation has been connected to clinical trails successfully in ten cancer types, colon adenocarcinoma, esophageal carcinoma, head and neck squamous cell carcinoma, kidney renal clear cell carcinoma, kidney renal papillary cell carcinoma, liver hepatocellular carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, pancreatic adenocarcinoma, thyroid carcinoma.
+- The potential identified therapiutic targets and target molecular mechanism translation have been connected to clinical trails successfully in ten cancer types, colon adenocarcinoma, esophageal carcinoma, head and neck squamous cell carcinoma, kidney renal clear cell carcinoma, kidney renal papillary cell carcinoma, liver hepatocellular carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, pancreatic adenocarcinoma, thyroid carcinoma.
 - The SCNrank system is datamining on big data to seek cancer potential targets, including expression profiles from tumor tissue, adjacent normal tissue, and cell-line; protein-protein interaction network (PPI); and CRISPR-Cas9 gene knock-out from cancer cell data. By gene functions variations of cancer cell lines from genome scale CRISPR-Cas9, SCNrank matches its functions with tumors to guide precision cancer medicine.
 - [User evaluation and feedback, usability surveys to SCNrank](https://osu.az1.qualtrics.com/jfe/form/SV_cN4aWPI7wU7IecR)
 ####	[XDeath](https://pcm2019.shinyapps.io/LijunLab_Pathway_Enrichment/) for therapeutic target identification to induce cell death--- an interactive platform based on shinyapps cloud. 
@@ -44,7 +43,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 - Using a deep neural network model, XDeath, is used to precisely identify therapeutic targets that are associated with cancer initiation and/or progression. The unique method could detect molecular targeting of distinct deregulated active signaling elements that might contribute to their sustained growth, survival, and treatment resistance, therefore, is of immense therapeutic interest. These novel target identification approaches should improve the efficacy of current therapeutic treatments against highly aggressive, metastatic, recurrent, and lethal cancers. Twenty-nine pathways of cell death with eight cell death modes, apoptosis, autophagy, autosis, immunogenic (T cell, B cell), necroptosis, the broad-spectrum protein kinase C (PKC) ferroptosis, and proliferation (survival) are observed systematically. Molecular mechanisms of crosstalk during cancer progresses dynamically from the early stage to the advanced stage and is investigated in two independent datasets. Current platform, as prostate cancer for example, we demonstrated how these survival pathways crosstalk switches and caused prostate cancer progression. The optimal therapeutic targets are identified to stop progression, where TCGA: 550 patients for modelling construction, and GEO serial ID GSE21032: 177 patients for validation.
 - [User evaluation and feedback, usability surveys to XDeath](https://osu.az1.qualtrics.com/jfe/form/SV_2r8307kGQGELyf3) 
 ####	[XDeathDB](https://pcm2019.shinyapps.io/XDeathDB/)-- an intertact website on shinyapps cloud for programmed cell death and crosstalk search engine
-- XDeathDB creates a comprehensive search engine of molecular mechanisms of cell death and cell death interaction at the key therapeutic targets, cell death hallmark genes and pathway relevant to regulation of cell death. 
+- XDeathDB creates a comprehensive search engine of molecular mechanisms of cell death and cell death interactions at the key therapeutic targets, cell death hallmark genes and pathway relevant to regulation of cell death. 
 - XDeathDB includes 12 cell death modes and 498 pathways in cell cycle, immunology, autophagy, ferroptosis, appoptosis, necrosis, DNA damage, mitochondria, pyroptosis, lysozomal cell death, mitotic cell death, autosis, autophagy, which refer to latest [nature literature molecular mechanisms of cell death](https://www.nature.com/articles/s41418-017-0012-4). 
 - With XDeathDB platform, users can search specific interactions from vast interdependent sub-networks that occur in the realm of cell death, including any genes, any pathways and 12 cell death modes. 
 - XDeathDB is a dynamic interactive system. Users can upload gene-expression profiles linked with phenotypes and create their own networks using their own genes of interest. In addition, users can import dynamic networks from a txt file directly and export dynamic networks to a txt file for further analysis. 
@@ -95,4 +94,3 @@ Lab members should keep their own pages current, as well as contribute to the la
 - [2] Enze Liu, Zhuang Zhuang Zhang, Xiaolin Cheng, Xiaoqi Liu, and **Lijun Cheng***, SCNrank: spectral clustering for network-based ranking to reveal potential drug-targets and its application in pancreatic ductal adenocarcinoma. BMC Med Genomics. 2020,13(Suppl 5):50. 
 - [3] **Lijun Cheng**, Bryan P. Schneider and Lang Li*, A Bioinformatics approach for the precision medicine off-label drug usage among triple negative breast cancer patients, the Journal of the American Medical Informatics Association, 2016, pii: ocw004.
 - [4] **Lijun Cheng**, Abhishek Majumdar, Daniel Stover, Shaofeng Wu, Yaoqin Lu, Lang Li. Computational cancer cell models to guide precision breast cancer medicine. Genes (Basel). 2020, 11(3):263. 
-
