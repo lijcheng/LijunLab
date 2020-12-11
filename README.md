@@ -12,7 +12,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 ## AREA OF EXPERTISE
 ### Computational precision medicine in big data mining 
-**The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. Artificial Intelligence (AI) models can calculate potential success of therapeutic targets, biomarkers, and new drugs. Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine.**
+**The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine.**
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
 - The biomarkers identification to predict the subgroups of patients for whom treatment with a newly developed drug will be more effective than the standard treatment.
 - Molecular mechanisms of drug resistance/disease progression.
@@ -54,7 +54,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 - **Doctoral students:** Enze Liu, Aida Yazdanparast 
 - **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
 
-### RESEARCH PAPER
+### AREA OF EXPERTISE PAPER
 **Her contribution to science mainly exists in four aspects (list typical 4 papers):**
 
 #### 1.	Artificial intelligence (AI) graph neural network and learning models for identification tasks
