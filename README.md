@@ -4,8 +4,8 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 # Welcome to Lijun Cheng Lab Pages
 
-### Dr.Lijun Cheng works in department of biomedical informatics, college of medicine, Ohio State University as an assistant professor 
-- https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng
+### Dr.Lijun Cheng works in department of biomedical informatics, college of medicine, Ohio State University (OSU) as an assistant professor 
+- [Introduction on OSU](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
@@ -18,7 +18,9 @@ Lab members should keep their own pages current, as well as contribute to the la
 - Molecular mechanisms of drug resistance/disease progression.
 - Efficacy therapeutic target and drug identification combating drug resistance in cancer. 
 
+
 ### CONTRIBUTIONs TO SCIENCE
+
 
 **Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
 
@@ -26,7 +28,9 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 - All papers list on google scholar by [the link](https://scholar.google.com/citations?user=UtDzFE8AAAAJ&hl=en)
 
+
 ### DEVELOPPED SOFTWARE
+
 
 ####	Precision Medicine System, DRPM (https://pcm2019.shinyapps.io/Drug_Response_Prediction/) website platform 
 - DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment. A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
