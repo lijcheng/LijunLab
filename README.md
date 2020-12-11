@@ -4,7 +4,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 # Welcome to Lijun Cheng Lab Pages
 
-### Dr.Lijun Cheng works in Department of Biomedical Informatics, College of Medicine, Ohio State University as an assistant professor 
+### Dr.Lijun Cheng works in department of biomedical informatics, college of medicine, Ohio State University as an assistant professor 
 - https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
