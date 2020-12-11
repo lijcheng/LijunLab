@@ -7,7 +7,7 @@
 # Lijun Cheng Ph.D
 ### 01/2018-, Assistant professor
 <div class="text-purple">
- - Department of biomedical informatics, College of medicine, Ohio state university (OSU)
+ Department of biomedical informatics, College of medicine, Ohio state university (OSU)
 </div>
 
 - [Introduction on OSU webpage](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
