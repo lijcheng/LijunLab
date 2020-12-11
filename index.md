@@ -24,8 +24,6 @@ Lab members should keep their own pages current, as well as contribute to the la
 
 
 ### DEVELOPPED SOFTWARE
-
-
 ####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) website platform 
 - DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment. A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
 ####	[TrilogPM platform](https://pcm2019.shinyapps.io/TrilogyPM/)  for precision medicine– “the right treatment, for the right patient, at the right time."
