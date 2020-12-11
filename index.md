@@ -41,7 +41,7 @@
 
 ### STUDENTS
 **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
-**Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
-**Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
-**Doctoral students:** Enze Liu, Aida Yazdanparast 
-**Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
+- **Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
+- **Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
+- **Doctoral students:** Enze Liu, Aida Yazdanparast 
+- **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
