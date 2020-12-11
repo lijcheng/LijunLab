@@ -13,7 +13,7 @@ Lab members should keep their own pages current, as well as contribute to the la
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
 - 04/2014 – 05/2015 	Postdoctoral Fellow, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, IN, U.S.
 - 12/2012 – 03/2014 	Assistant Researcher, Shanghai Jiao Tong University, State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, P. R. China
-- 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. Artificial intelligence Pattern Identification, Electrical Engineering and Computer Science
+- 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
 
 ## AREA OF EXPERTISE
 ### Computational precision medicine by artifical intelligence big data mining 
