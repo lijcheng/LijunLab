@@ -39,16 +39,14 @@
 - XDeathDB is a dynamic interactive system. Users can upload gene-expression profiles linked with phenotypes and create their own networks using their own genes of interest. In addition, users can import dynamic networks from a txt file directly and export dynamic networks to a txt file for further analysis. 
 - XDeathDB implemented dynamic network construction method in a modular way and allow users to freely select and combine these modules to obtain their own network construction.
 #### DGCyTOF, https://github.com/lijcheng/DGCyTOF
-- Mass cytometry, or CyTOF (Fluidigm), is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
-- Mass cytometry is a novel platform for high-dimensional phenotypic and functional analysis of single cells.
-
-A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
+- Mass cytometry, or CyTOF (Fluidigm), is a novel platform for high-dimensional phenotypic and functional analysis of single cells.  CyTOF is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
+- A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
 
 ### STUDENTS
-**Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
-**Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
-**Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
-**Doctoral students:** Enze Liu, Aida Yazdanparast 
-**Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
+- **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
+- **Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
+- **Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
+- **Doctoral students:** Enze Liu, Aida Yazdanparast 
+- **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
 
 
