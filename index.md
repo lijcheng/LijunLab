@@ -3,13 +3,16 @@
 ![Framework](./Lijun_photo.jpg)
 - This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
 - Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
-
+- 
 # Lijun Cheng Ph.D
 ### 01/2018-, Assistant professor
 **Department of biomedical informatics, College of medicine, Ohio state university (OSU)**
 - [Introduction on OSU webpage](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
+
+# Latest news
+"Co-targeting Plk1 and DNMT3a in advanced prostate cancer" (Research Article, No. advs.202101458R1) published on Advanced Science as co-first author.
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
