@@ -19,12 +19,23 @@
 - 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
 
 ## AREA OF EXPERTISE
+The full journal publication list can be found in NCBI MyBibliography: https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/
+All papers list on google scholar by the following link to access: https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works
+
 ### Computational precision medicine by artifical intelligence big data mining 
-**The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine.**
+**The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. 
+
+#### Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine. 
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
 - The biomarkers identification to predict the subgroups of patients for whom treatment with a newly developed drug will be more effective than the standard treatment.
-- Molecular mechanisms of drug resistance/disease progression.
-- Efficacy therapeutic target and drug identification combating drug resistance in cancer. 
+** Dr. Cheng’s pioneering work led to 15 publications in renowned journals, such as IEEE Transaction on neural network and learning systems	(Impact factor:11.683), Information Sciences( Impact facor: 5.563), Neurocomputing	(Impact factor:5.19, First author), The Journal of the American Medical Informatics Association	(Impact factor:4.122, First author), Plos computational biology	(Impact factor:4.428, First author), Genes(Impact factor:3.759, First author), CPT: pharmacometrics & systems pharmacology (Impact factor:3.37, First author)	BMC Genomics (Impact factor:3.72, First author), BMC Medicine Genomics(Impact factor:3.172, First author).
+
+#### Molecular mechanisms of drug resistance/disease progression and efficacy therapeutics, efficacy therapeutic target and drug identification combating drug resistance in cancer. 
+** Dr.Cheng developed a series of resources and methods to facilitate data mining of drug resistance mechanism and new drug combination from various data sources. Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.7, first author), Cancer Research(Impact factor:	9.8), Molecular Cancer (Impact factor:	7.776), Oncogene (Impact factor, 6.63), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
+
+
+
+
 
 ### DEVELOPPED SOFTWARE
 ####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
