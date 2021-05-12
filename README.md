@@ -9,6 +9,9 @@
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
+## Latest news
+“Co-targeting Plk1 and DNMT3a in advanced prostate cancer” (Research Article, No. advs.202101458R1, High Impact Factor of 16 ) published on Advanced Science as co-first author.
+
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
 - 04/2014 – 05/2015 	Postdoctoral Fellow, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, IN, U.S.
