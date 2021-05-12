@@ -10,7 +10,7 @@
 - Email: lijun.cheng@osumc.edu
 
 ## Latest news
-“Co-targeting Plk1 and DNMT3a in advanced prostate cancer” (Research Article, No. advs.202101458R1, <b>High Impact Factor of 16 <b>) published on Advanced Science as co-first author.
+“Co-targeting Plk1 and DNMT3a in advanced prostate cancer” (Research Article, No. advs.202101458R1, <b>High Impact Factor of 16 ) published on Advanced Science as co-first author.
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
