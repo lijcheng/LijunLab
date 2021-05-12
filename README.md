@@ -19,8 +19,8 @@
 - 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
 
 ## AREA OF EXPERTISE
-The full journal publication list can be found in NCBI MyBibliography: https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/
-All papers list on google scholar by the following link to access: https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works
+- The full journal publication list can be found in NCBI MyBibliography: https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/
+- All papers list on google scholar by the following link to access: https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works
 
 ### Computational precision medicine by artifical intelligence big data mining 
 **The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. 
