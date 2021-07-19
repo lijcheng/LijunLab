@@ -9,8 +9,17 @@
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
-## Latest news
-“Co-targeting Plk1 and DNMT3a in advanced prostate cancer” (Research Article, No. advs.202101458R1, <b> High Impact Factor of 16 </b>) published on <b>Advanced Science</b> as co-first author.
+## Breakthrough in molecular mechanism of disease progression and drug resistance
+- Zhuangzhuang Zhang#, <b> Lijun Cheng </b>#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 16.8 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
+- Zhuangzhuang Zhang, <b> Lijun Cheng </b>, Jie Li, Elia Farah, Nadia M Atallah, Pete E Pascuzzi, Sanjay Gupta, Xiaoqi Liu. Inhibition of the Wnt/β-catenin pathway overcomes resistance to enzalutamide in castration-resistant prostate cancer. Cancer research. 2018, 78 (12): 3147-3162. (<b> High Impact Factor of 12.7 </b>, This study illustrates the Wnt/ β-catenin pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the Wnt pathway activated after enzalutamide resistance.)
+- Jinghui Liu, Daheng He, <b> Lijun Cheng </b>, Changkun Huang, Yanquan Zhang, Xiongjian Rao, Yifan Kong, Chaohao Li, Zhuangzhuang Zhang, Jinpeng Liu, Karrie Jones, Dana Napier, Eun Y Lee, Chi Wang, Xiaoqi Liu. p300/CBP inhibition enhances the efficacy of programmed death-ligand 1 blockade treatment in prostate cancer. Oncogene. 2020, 39:3939-3951. (<b> High Impact Factor of 8.64 </b>, this study illustrates the cell death immunology pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the new pathway activate.)
+
+
+## Latest funding granted in  molecular mechanism and drug development
+- R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
+- R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
+- U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
+- R01, maternal and pediatric precision in therapeutics data, model, knowledge, and research coordination center (IU-OSU MPRINT DMKRCC), co-investigator
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
@@ -32,10 +41,7 @@
 
 #### Molecular mechanisms of drug resistance/disease progression and efficacy therapeutics identification combating drug resistance in cancer. 
 - Dr.Cheng developed a series of resources and methods to facilitate data mining of drug resistance mechanism and new drug combination from various data sources. 
-- Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.7, first author), Cancer Research(Impact factor:	9.8), Molecular Cancer (Impact factor:	7.776), Oncogene (Impact factor, 6.63), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
-
-
-
+- Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.8, first author), Molecular Cancer (Impact factor:	25.55), Cancer Research(Impact factor:	12.8), Oncogene (Impact factor, 8.6), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
 
 
 ### DEVELOPPED SOFTWARE
@@ -57,6 +63,7 @@
 - XDeath is to identify the most significant therapeutic targets to induce cell death regulately. At the same time, the XDeath model is for the mechanism interpreting of disease progression and drug resistance.
 - Using a deep neural network model, XDeath, is used to precisely identify therapeutic targets that are associated with cancer initiation and/or progression. The unique method could detect molecular targeting of distinct deregulated active signaling elements that might contribute to their sustained growth, survival, and treatment resistance, therefore, is of immense therapeutic interest. These novel target identification approaches should improve the efficacy of current therapeutic treatments against highly aggressive, metastatic, recurrent, and lethal cancers. Twenty-nine pathways of cell death with eight cell death modes, apoptosis, autophagy, autosis, immunogenic (T cell, B cell), necroptosis, the broad-spectrum protein kinase C (PKC) ferroptosis, and proliferation (survival) are observed systematically. Molecular mechanisms of crosstalk during cancer progresses dynamically from the early stage to the advanced stage and is investigated in two independent datasets. Current platform, as prostate cancer for example, we demonstrated how these survival pathways crosstalk switches and caused prostate cancer progression. The optimal therapeutic targets are identified to stop progression, where TCGA: 550 patients for modelling construction, and GEO serial ID GSE21032: 177 patients for validation.
 - [User evaluation and feedback, usability surveys to XDeath](https://osu.az1.qualtrics.com/jfe/form/SV_2r8307kGQGELyf3) 
+
 ####	[XDeathDB](https://pcm2019.shinyapps.io/XDeathDB/)-- an intertact website on shinyapps cloud for programmed cell death and crosstalk search engine
 - XDeathDB creates a comprehensive search engine of molecular mechanisms of cell death and cell death interactions at the key therapeutic targets, cell death hallmark genes and pathway relevant to regulation of cell death. 
 - XDeathDB includes 12 cell death modes and 498 pathways in cell cycle, immunology, autophagy, ferroptosis, appoptosis, necrosis, DNA damage, mitochondria, pyroptosis, lysozomal cell death, mitotic cell death, autosis, autophagy, which refer to latest [nature literature molecular mechanisms of cell death](https://www.nature.com/articles/s41418-017-0012-4). 
@@ -65,17 +72,24 @@
 - XDeathDB implemented dynamic network construction method in a modular way and allow users to freely select and combine these modules to obtain their own network construction.
 - [User evaluation and feedback, usability surveys to XDeathDB](https://osu.az1.qualtrics.com/jfe/form/SV_4VflPI9ItadcfWZ)
 
-#### [DGCyTOF](https://github.com/lijcheng/DGCyTOF)
+#### [DGCyTOF](https://github.com/lijcheng12/DGCyTOF) package --- Deep learning visualization for single cell subtype identification
 - Mass cytometry, or CyTOF (Fluidigm),  is a novel platform for high-dimensional phenotypic and functional analysis of single cells.
 - CyTOF is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
 - A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
+
+#### [Bi-EB](https://github.com/lijcheng12/Bi-EB) package --- biclustering method based on empirical bayesian
+- The genome molecular features shared between cell lines and tumors give us insight into discovering potential drug targets for cancer patients. 
+- Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1-2]. 
+- Based on the evidence, we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules of mRNA and protein. 
+##### [1] Jiang GL, Zhang SJ, Yazdanparast A, Li M, Vikram Pawar A, Liu YL, Inavolu SM, Cheng LJ. Comprehensive comparison of molecular portraits between cell lines and tumors in breast cancer. BMC genomics, 2016, 17(7), 281-301.
+##### [2] Yazdanparast A, Li L, Radovich M, Cheng LJ. Signal translational efficiency between mRNA expression and antibody-based protein expression for breast cancer and its subtypes from cell lines to tissue. International Journal of Computational Biology and Drug Design , 2018, 11 (1-2), 67-89.
 
 ### STUDENTS
 - **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
 - **Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
 - **Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
-- **Doctoral students:** Enze Liu, Aida Yazdanparast 
-- **Post-doctoral Fellow:** Abhishek Majumdar, Tao Han
+- **Co-guide doctoral students:** Enze Liu, Aida Yazdanparast 
+- **Post-doctoral fellow:** Abhishek Majumdar, Tao Han
 
 
 ### CONTRIBUTIONs TO SCIENCE
