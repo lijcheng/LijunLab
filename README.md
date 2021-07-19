@@ -69,12 +69,12 @@ R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, an
 - XDeathDB implemented dynamic network construction method in a modular way and allow users to freely select and combine these modules to obtain their own network construction.
 - [User evaluation and feedback, usability surveys to XDeathDB](https://osu.az1.qualtrics.com/jfe/form/SV_4VflPI9ItadcfWZ)
 
-#### [DGCyTOF](https://github.com/lijcheng12/DGCyTOF)
+#### [DGCyTOF](https://github.com/lijcheng12/DGCyTOF) package --- Deep learning visualization for single cell subtype identification
 - Mass cytometry, or CyTOF (Fluidigm),  is a novel platform for high-dimensional phenotypic and functional analysis of single cells.
 - CyTOF is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
 - A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
 
-#### [Bi-EB](https://github.com/lijcheng12/Bi-EB),biclustering method based on empirical bayesian
+#### [Bi-EB](https://github.com/lijcheng12/Bi-EB) package --- biclustering method based on empirical bayesian
 - The genome molecular features shared between cell lines and tumors give us insight into discovering potential drug targets for cancer patients. 
 - Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1-2]. 
 - Based on the evidence, we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules. 
