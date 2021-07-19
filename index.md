@@ -9,6 +9,15 @@
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
+## AREA OF EXPERTISE
+
+### Computational precision medicine in molecular mechanism disclosure by artifical intelligence big data mining 
+- The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs.
+- publications
+- The full journal publication list can be found in [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
+- All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
+
+
 ### Breakthrough in molecular mechanism of disease progression and drug resistance
 - Zhuangzhuang Zhang#, <b> Lijun Cheng </b>#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 16.8 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
 - Zhuangzhuang Zhang, <b> Lijun Cheng </b>, Jie Li, Elia Farah, Nadia M Atallah, Pete E Pascuzzi, Sanjay Gupta, Xiaoqi Liu. Inhibition of the Wnt/β-catenin pathway overcomes resistance to enzalutamide in castration-resistant prostate cancer. Cancer research. 2018, 78 (12): 3147-3162. (<b> High Impact Factor of 12.7 </b>, This study illustrates the Wnt/ β-catenin pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the Wnt pathway activated after enzalutamide resistance.)
@@ -28,11 +37,6 @@
 - 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
 
 ## AREA OF EXPERTISE
-- The full journal publication list can be found in [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
-- All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
-
-### Computational precision medicine by artifical intelligence big data mining 
-- The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. 
 
 #### Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine. 
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
