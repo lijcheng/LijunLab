@@ -29,6 +29,7 @@
 - R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
 - U01, An informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
 - R01, Maternal and pediatric precision in therapeutics data, model, knowledge, and research coordination center (IU-OSU MPRINT DMKRCC), co-investigator
+- P54 HD090215, Optimization of therapeutic approaches for children with relapsed sarcomas using precision medicine, co-investigator
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
