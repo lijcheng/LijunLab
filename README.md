@@ -9,8 +9,14 @@
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
-## Breakthrough in disease progression molecular
-Zhuangzhuang Zhang#, Lijun Cheng#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. Accepted. (Co-first authors, <b> High Impact Factor of 16 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
+## Breakthrough in disease progression molecular mechanism
+Zhuangzhuang Zhang#, Lijun Cheng#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. Accepted. (Co-first authors, <b> High Impact Factor of 15.68 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
+
+## Latest funding granted in  molecular mechanism and drug development
+R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
+R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
+U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
+R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, and Research Coordination Center (IU-OSU MPRINT DMKRCC), co-investigator
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
