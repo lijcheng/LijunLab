@@ -10,7 +10,7 @@
 - Email: lijun.cheng@osumc.edu
 
 ## Breakthrough in disease progression molecular mechanism
-Zhuangzhuang Zhang#, Lijun Cheng#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. Accepted. (Co-first authors, <b> High Impact Factor of 15.68 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
+Zhuangzhuang Zhang#, Lijun Cheng#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 15.68 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
 
 ## Latest funding granted in  molecular mechanism and drug development
 R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
@@ -41,9 +41,6 @@ R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, an
 - Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.7, first author), Cancer Research(Impact factor:	9.8), Molecular Cancer (Impact factor:	7.776), Oncogene (Impact factor, 6.63), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
 
 
-
-
-
 ### DEVELOPPED SOFTWARE
 ####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
 - DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment.
@@ -63,6 +60,7 @@ R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, an
 - XDeath is to identify the most significant therapeutic targets to induce cell death regulately. At the same time, the XDeath model is for the mechanism interpreting of disease progression and drug resistance.
 - Using a deep neural network model, XDeath, is used to precisely identify therapeutic targets that are associated with cancer initiation and/or progression. The unique method could detect molecular targeting of distinct deregulated active signaling elements that might contribute to their sustained growth, survival, and treatment resistance, therefore, is of immense therapeutic interest. These novel target identification approaches should improve the efficacy of current therapeutic treatments against highly aggressive, metastatic, recurrent, and lethal cancers. Twenty-nine pathways of cell death with eight cell death modes, apoptosis, autophagy, autosis, immunogenic (T cell, B cell), necroptosis, the broad-spectrum protein kinase C (PKC) ferroptosis, and proliferation (survival) are observed systematically. Molecular mechanisms of crosstalk during cancer progresses dynamically from the early stage to the advanced stage and is investigated in two independent datasets. Current platform, as prostate cancer for example, we demonstrated how these survival pathways crosstalk switches and caused prostate cancer progression. The optimal therapeutic targets are identified to stop progression, where TCGA: 550 patients for modelling construction, and GEO serial ID GSE21032: 177 patients for validation.
 - [User evaluation and feedback, usability surveys to XDeath](https://osu.az1.qualtrics.com/jfe/form/SV_2r8307kGQGELyf3) 
+
 ####	[XDeathDB](https://pcm2019.shinyapps.io/XDeathDB/)-- an intertact website on shinyapps cloud for programmed cell death and crosstalk search engine
 - XDeathDB creates a comprehensive search engine of molecular mechanisms of cell death and cell death interactions at the key therapeutic targets, cell death hallmark genes and pathway relevant to regulation of cell death. 
 - XDeathDB includes 12 cell death modes and 498 pathways in cell cycle, immunology, autophagy, ferroptosis, appoptosis, necrosis, DNA damage, mitochondria, pyroptosis, lysozomal cell death, mitotic cell death, autosis, autophagy, which refer to latest [nature literature molecular mechanisms of cell death](https://www.nature.com/articles/s41418-017-0012-4). 
@@ -76,10 +74,10 @@ R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, an
 - CyTOF is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
 - A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
 
-#### A novelty biclustering method based on empirical bayesian (Bi-EB) algorithm[Bi-EB](https://github.com/lijcheng12/Bi-EB)
+#### [Bi-EB](https://github.com/lijcheng12/Bi-EB),biclustering method based on empirical bayesian
 - The genome molecular features shared between cell lines and tumors give us insight into discovering potential drug targets for cancer patients. 
 - Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1-2]. 
-- Based on previous studies, we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules. 
+- Based on the evidence, we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules. 
 ##### [1] Jiang GL, Zhang SJ, Yazdanparast A, Li M, Vikram Pawar A, Liu YL, Inavolu SM, Cheng LJ. Comprehensive comparison of molecular portraits between cell lines and tumors in breast cancer. BMC genomics, 2016, 17(7), 281-301. <p>
 ##### [2] Yazdanparast A, Li L, Radovich M, Cheng LJ. Signal translational efficiency between mRNA expression and antibody-based protein expression for breast cancer and its subtypes from cell lines to tissue. International Journal of Computational Biology and Drug Design , 2018, 11 (1-2), 67-89.
 
