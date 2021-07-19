@@ -37,7 +37,7 @@
 - 12/2012 – 03/2014 	Assistant Researcher, Shanghai Jiao Tong University, State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, P. R. China
 - 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
 
-## AREA OF EXPERTISE
+## Contribution to science
 
 #### Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine. 
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
@@ -99,7 +99,7 @@
 - **Co-guide doctoral students:** Enze Liu, Aida Yazdanparast 
 - **Post-doctoral fellow:** Abhishek Majumdar, Tao Han
 
-### CONTRIBUTIONs TO SCIENCE
+### CONTRIBUTIONS TO SCIENCE
 
 **Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
 
@@ -111,7 +111,7 @@
 
 **Dr.Cheng contribution to science mainly exists in three aspects (list typical 4 papers):**
 
-#### 1.	Artificial intelligence (AI) graph neural network and learning models for pattern recognition tasks
+#### 1.	Artificial intelligence (AI) graph neural network learning models for pattern recognition tasks
 **Dr.Cheng has developed several graph neural network and learning models and applying them in primary open-angle glaucoma identification by dynamic images analysis, therapeutic target identification from membrane protein interaction networks , and predictive biomarkers identification to chemotherapy response in sarcoma patients. Influence of findings: these AI methods led to a new theory system in machine learning and make these identification task speed fast and accuracy improvement sharply in big data mining. All these finding is published on top tie artificial neural network and learning journals. 1.) IEEE Transaction on neural network and learning systems (impact factor, 11.683). 2.) Neurocomputing (impact factor, 3.317), 3) BMC Medicine Genomics (impact factor, 3.17).**
 - [1] Yongsheng Ding*, **Lijun Cheng**, Witold Pedrycz, and Kuangrong Hao, Global nonlinear kernel prediction for large dataset with a particle swarm optimized interval support vector regression, IEEE Transaction on neural network and learning systems, 2015, 26(10):2521-2534. (**Co-first authors**)
 - [2] Yongsheng Ding, Yizhen Shen, Lihong Ren, and **Lijun Cheng**, Dynamic and collective analysis of membrane protein interaction network based on gene regulatory network model, Neurocomputing, 2012, 98(3):151-158.
