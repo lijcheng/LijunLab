@@ -17,6 +17,15 @@
 - The full journal publication list [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
 - All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
 
+#### The new AI mathematical methods development for drug response and side-effects predictions in precision medicine. 
+- Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
+- The biomarkers identification to predict the subgroups of patients for whom treatment with a newly developed drug will be more effective than the standard treatment.
+- Dr. Cheng’s pioneering work led to 15 publications in renowned journals, such as IEEE Transaction on neural network and learning systems	(Impact factor:11.683), Information Sciences( Impact facor: 5.563), Neurocomputing	(Impact factor:5.19, First author), The Journal of the American Medical Informatics Association	(Impact factor:4.122, First author), Plos computational biology	(Impact factor:4.428, First author), Genes(Impact factor:3.759, First author), CPT: pharmacometrics & systems pharmacology (Impact factor:3.37, First author)	BMC Genomics (Impact factor:3.72, First author), BMC Medicine Genomics(Impact factor:3.172, First author).
+
+#### Molecular mechanisms of drug resistance/disease progression and efficacy therapeutics identification combating drug resistance in cancer. 
+- Dr.Cheng developed a series of resources and methods to facilitate data mining of drug resistance mechanism and new drug combination from various data sources. 
+- Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.8, first author), Molecular Cancer (Impact factor:	25.55), Cancer Research(Impact factor:	12.8), Oncogene (Impact factor, 8.6), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
+
 
 ### Breakthrough in molecular mechanism of disease progression and drug resistance
 - Zhuangzhuang Zhang#, <b> Lijun Cheng </b>#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 16.8 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
@@ -36,17 +45,6 @@
 - 04/2014 – 05/2015 	Postdoctoral Fellow, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, IN, U.S.
 - 12/2012 – 03/2014 	Assistant Researcher, Shanghai Jiao Tong University, State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer Institute, P. R. China
 - 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
-
-## Contribution to science
-
-#### Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine. 
-- Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
-- The biomarkers identification to predict the subgroups of patients for whom treatment with a newly developed drug will be more effective than the standard treatment.
-- Dr. Cheng’s pioneering work led to 15 publications in renowned journals, such as IEEE Transaction on neural network and learning systems	(Impact factor:11.683), Information Sciences( Impact facor: 5.563), Neurocomputing	(Impact factor:5.19, First author), The Journal of the American Medical Informatics Association	(Impact factor:4.122, First author), Plos computational biology	(Impact factor:4.428, First author), Genes(Impact factor:3.759, First author), CPT: pharmacometrics & systems pharmacology (Impact factor:3.37, First author)	BMC Genomics (Impact factor:3.72, First author), BMC Medicine Genomics(Impact factor:3.172, First author).
-
-#### Molecular mechanisms of drug resistance/disease progression and efficacy therapeutics identification combating drug resistance in cancer. 
-- Dr.Cheng developed a series of resources and methods to facilitate data mining of drug resistance mechanism and new drug combination from various data sources. 
-- Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.8, first author), Molecular Cancer (Impact factor:	25.55), Cancer Research(Impact factor:	12.8), Oncogene (Impact factor, 8.6), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
 
 
 ### DEVELOPPED SOFTWARE
