@@ -41,7 +41,7 @@
 
 #### Molecular mechanisms of drug resistance/disease progression and efficacy therapeutics identification combating drug resistance in cancer. 
 - Dr.Cheng developed a series of resources and methods to facilitate data mining of drug resistance mechanism and new drug combination from various data sources. 
-- Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.8, first author), Cancer Research(Impact factor:	12.8), Molecular Cancer (Impact factor:	7.776), Oncogene (Impact factor, 6.63), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
+- Dr. Cheng’s pioneering work led to 25 publications in renowned journals, such as Nature genetics(Impact factor:26.7), Advanced Science	(Impact factor:16.8, first author), Molecular Cancer (Impact factor:	25.55), Cancer Research(Impact factor:	12.8), Oncogene (Impact factor, 8.6), Clinical Pharmacology Therapy (Impact factor,	6.544, Co-first), Cancers (Impact factor,	6.16, co-first author), Journal of Clinical Immunology( Impact factor:6.780), Journal of biological chemistry (Impact factor:	4.238	), The Prostate	(Impact factor:4.47) (Biology, Impact factor: 3.796) as well as professional conferences, such as AMIA Summits on Translational Science Proceedings.
 
 
 ### DEVELOPPED SOFTWARE
