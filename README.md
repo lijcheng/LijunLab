@@ -9,14 +9,17 @@
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
-## Breakthrough in disease progression molecular mechanism
-Zhuangzhuang Zhang#, Lijun Cheng#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 15.68 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
+## Breakthrough in molecular mechanism of disease progression and drug resistance
+- Zhuangzhuang Zhang#, <b> Lijun Cheng </b>#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 15.68 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
+- Zhuangzhuang Zhang, Lijun Cheng, Jie Li, Elia Farah, Nadia M Atallah, Pete E Pascuzzi, Sanjay Gupta, Xiaoqi Liu. Inhibition of the Wnt/β-catenin pathway overcomes resistance to enzalutamide in castration-resistant prostate cancer. Cancer research. 2018, 78 (12): 3147-3162. (<b> High Impact Factor of 9.8 </b>, This study illustrates the Wnt/ β-catenin pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the Wnt pathway activated after enzalutamide resistance.)
+- Jinghui Liu, Daheng He, <b> Lijun Cheng </b>, Changkun Huang, Yanquan Zhang, Xiongjian Rao, Yifan Kong, Chaohao Li, Zhuangzhuang Zhang, Jinpeng Liu, Karrie Jones, Dana Napier, Eun Y Lee, Chi Wang, Xiaoqi Liu. p300/CBP inhibition enhances the efficacy of programmed death-ligand 1 blockade treatment in prostate cancer. Oncogene. 2020, 39:3939-3951. (<b> High Impact Factor of 8.6 </b>, this study illustrates the cell death immunology pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the new pathway activate.)
+
 
 ## Latest funding granted in  molecular mechanism and drug development
-R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
-R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
-U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
-R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, and Research Coordination Center (IU-OSU MPRINT DMKRCC), co-investigator
+- R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
+- R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
+- U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
+- R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, and Research Coordination Center (IU-OSU MPRINT DMKRCC), co-investigator
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
