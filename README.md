@@ -19,7 +19,7 @@
 - R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
 - R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
 - U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
-- R01, Maternal and Pediatric Precision in Therapeutics Data, Model, Knowledge, and Research Coordination Center (IU-OSU MPRINT DMKRCC), co-investigator
+- R01, maternal and pediatric precision in therapeutics data, model, knowledge, and research coordination center (IU-OSU MPRINT DMKRCC), co-investigator
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
