@@ -11,9 +11,9 @@
 
 ## AREA OF EXPERTISE
 
-### Computational precision medicine in molecular mechanism disclosure by artifical intelligence big data mining 
-- The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs.
-- publications
+### Computational precision medicine and drug development
+- The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. Dr. Cheng focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for molecular mechanism of drug resistance, disease progression and an optimal drug recommendation in precision medicine.
+
 - The full journal publication list can be found in [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
 - All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
 
@@ -27,8 +27,8 @@
 ### Latest funding granted in  molecular mechanism and drug development
 - R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
 - R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
-- U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
-- R01, maternal and pediatric precision in therapeutics data, model, knowledge, and research coordination center (IU-OSU MPRINT DMKRCC), co-investigator
+- U01, An informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
+- R01, Maternal and pediatric precision in therapeutics data, model, knowledge, and research coordination center (IU-OSU MPRINT DMKRCC), co-investigator
 
 ### PREVIOUS POSITIONS
 - 05/2015 – 12/2017 	Assistant Researcher Professor, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana, U.S.
