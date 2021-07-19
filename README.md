@@ -9,13 +9,22 @@
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
 
-## Breakthrough in molecular mechanism of disease progression and drug resistance
+## AREA OF EXPERTISE
+
+### Computational precision medicine in molecular mechanism disclosure by artifical intelligence big data mining 
+- The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs.
+- publications
+- The full journal publication list can be found in [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
+- All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
+
+
+### Breakthrough in molecular mechanism of disease progression and drug resistance
 - Zhuangzhuang Zhang#, <b> Lijun Cheng </b>#, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Chi Wang and Xiaoqi Liu*. Co-targeting Plk1 and DNMT3a in advanced prostate cancer. Advanced Science. 2021 Jul;8(13):e2101458. doi: 10.1002/advs.202101458. (Co-first authors, <b> High Impact Factor of 16.8 </b>) (This study illustrates the PLK1 signaling pathway switching mechanism with DNMT3A signaling pathway and seek combination drug treatment to overcome the ‘rewiring’ to stop prostate cancer patients'progression)
 - Zhuangzhuang Zhang, <b> Lijun Cheng </b>, Jie Li, Elia Farah, Nadia M Atallah, Pete E Pascuzzi, Sanjay Gupta, Xiaoqi Liu. Inhibition of the Wnt/β-catenin pathway overcomes resistance to enzalutamide in castration-resistant prostate cancer. Cancer research. 2018, 78 (12): 3147-3162. (<b> High Impact Factor of 12.7 </b>, This study illustrates the Wnt/ β-catenin pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the Wnt pathway activated after enzalutamide resistance.)
 - Jinghui Liu, Daheng He, <b> Lijun Cheng </b>, Changkun Huang, Yanquan Zhang, Xiongjian Rao, Yifan Kong, Chaohao Li, Zhuangzhuang Zhang, Jinpeng Liu, Karrie Jones, Dana Napier, Eun Y Lee, Chi Wang, Xiaoqi Liu. p300/CBP inhibition enhances the efficacy of programmed death-ligand 1 blockade treatment in prostate cancer. Oncogene. 2020, 39:3939-3951. (<b> High Impact Factor of 8.64 </b>, this study illustrates the cell death immunology pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the new pathway activate.)
 
 
-## Latest funding granted in  molecular mechanism and drug development
+### Latest funding granted in  molecular mechanism and drug development
 - R01 ES032026, In utero endocrine disruption causes cell type specific alterations that promote breast cancer, co-investigator
 - R01 GM135234, Mitochondrial metabolism in microbial sepsis, co-investigator
 - U01, an informatics bridge over the valley of death for cancer Phase I trials for drug combination therapies, co-investigator
@@ -28,11 +37,6 @@
 - 07/2008 – 11/2012   Donghua University, P.R. China, and Concordia University, Canada, Joint Ph.D. , Artificial Intelligence Pattern Identification, Electrical Engineering and Computer Science
 
 ## AREA OF EXPERTISE
-- The full journal publication list can be found in NCBI MyBibliography: https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/
-- All papers list on google scholar by the following link to access: https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works
-
-### Computational precision medicine by artifical intelligence big data mining 
-**The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. AI models can calculate potential success of therapeutic targets, biomarkers, and new drugs. 
 
 #### Dr.Cheng lab focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for such predictions in precision medicine. 
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
@@ -45,26 +49,29 @@
 
 
 ### DEVELOPPED SOFTWARE
-####	[Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
+#### [Precision Medicine System, DRPM](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
 - DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment.
 - A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. 
 - The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
 - [User evaluation and feedback, usability surveys to DRPM](https://osu.az1.qualtrics.com/jfe/form/SV_24D9IO4eRc6lQnb)
-####	[TrilogPM platform](https://pcm2019.shinyapps.io/TrilogyPM/)  for precision medicine– “the right treatment, for the right patient, at the right time."
+
+#### [TrilogPM platform](https://pcm2019.shinyapps.io/TrilogyPM/)  for precision medicine– “the right treatment, for the right patient, at the right time."
 - TrilogPM, a comprehensive evidence knowledgebase in precision cancer medicine. It is a Shiny web server currently for searching drug, target, and genome variation (biomarkers) in copy number variation, mutation and fusion, and cancer type and associated drug treatment. The system integrated the most famous six precision medicine database together to provide a comprehensive evidence knowledgebase in precision cancer medicine for clinical practice and clinical trial generate hypothesis. 
 - TrilogyPM software is freely available to biomedical researchers and educators in the non-profit sector.
 - [User evaluation and feedback, usability surveys to TrilogyPM](https://osu.az1.qualtrics.com/jfe/form/SV_4OrqJwO9vq5P28R)
-####	[SCNrank](https://pcm2019.shinyapps.io/SCNrank/) platform, for therapeutic targets identification in cancer by a large screening CRISPR-Cas9 guidance
+
+#### [SCNrank](https://pcm2019.shinyapps.io/SCNrank/) platform, for therapeutic targets identification in cancer by a large screening CRISPR-Cas9 guidance
 - A novel artificial intelligence modeling (graph pattern matching and ranking algorithm) with a Shiny web server for potential cancer target identification, target molecular mechanism, and visualization.
 - The potential identified therapiutic targets and target molecular mechanism translation have been connected to clinical trails successfully in ten cancer types, colon adenocarcinoma, esophageal carcinoma, head and neck squamous cell carcinoma, kidney renal clear cell carcinoma, kidney renal papillary cell carcinoma, liver hepatocellular carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, pancreatic adenocarcinoma, thyroid carcinoma.
 - The SCNrank system is datamining on big data to seek cancer potential targets, including expression profiles from tumor tissue, adjacent normal tissue, and cell-line; protein-protein interaction network (PPI); and CRISPR-Cas9 gene knock-out from cancer cell data. By gene functions variations of cancer cell lines from genome scale CRISPR-Cas9, SCNrank matches its functions with tumors to guide precision cancer medicine.
 - [User evaluation and feedback, usability surveys to SCNrank](https://osu.az1.qualtrics.com/jfe/form/SV_cN4aWPI7wU7IecR)
-####	[XDeath](https://pcm2019.shinyapps.io/LijunLab_Pathway_Enrichment/) for therapeutic target identification to induce cell death--- an interactive platform based on shinyapps cloud. 
+
+#### [XDeath](https://pcm2019.shinyapps.io/LijunLab_Pathway_Enrichment/) for therapeutic target identification to induce cell death--- an interactive platform based on shinyapps cloud. 
 - XDeath is to identify the most significant therapeutic targets to induce cell death regulately. At the same time, the XDeath model is for the mechanism interpreting of disease progression and drug resistance.
 - Using a deep neural network model, XDeath, is used to precisely identify therapeutic targets that are associated with cancer initiation and/or progression. The unique method could detect molecular targeting of distinct deregulated active signaling elements that might contribute to their sustained growth, survival, and treatment resistance, therefore, is of immense therapeutic interest. These novel target identification approaches should improve the efficacy of current therapeutic treatments against highly aggressive, metastatic, recurrent, and lethal cancers. Twenty-nine pathways of cell death with eight cell death modes, apoptosis, autophagy, autosis, immunogenic (T cell, B cell), necroptosis, the broad-spectrum protein kinase C (PKC) ferroptosis, and proliferation (survival) are observed systematically. Molecular mechanisms of crosstalk during cancer progresses dynamically from the early stage to the advanced stage and is investigated in two independent datasets. Current platform, as prostate cancer for example, we demonstrated how these survival pathways crosstalk switches and caused prostate cancer progression. The optimal therapeutic targets are identified to stop progression, where TCGA: 550 patients for modelling construction, and GEO serial ID GSE21032: 177 patients for validation.
 - [User evaluation and feedback, usability surveys to XDeath](https://osu.az1.qualtrics.com/jfe/form/SV_2r8307kGQGELyf3) 
 
-####	[XDeathDB](https://pcm2019.shinyapps.io/XDeathDB/)-- an intertact website on shinyapps cloud for programmed cell death and crosstalk search engine
+#### [XDeathDB](https://pcm2019.shinyapps.io/XDeathDB/)-- an intertact website on shinyapps cloud for programmed cell death and crosstalk search engine
 - XDeathDB creates a comprehensive search engine of molecular mechanisms of cell death and cell death interactions at the key therapeutic targets, cell death hallmark genes and pathway relevant to regulation of cell death. 
 - XDeathDB includes 12 cell death modes and 498 pathways in cell cycle, immunology, autophagy, ferroptosis, appoptosis, necrosis, DNA damage, mitochondria, pyroptosis, lysozomal cell death, mitotic cell death, autosis, autophagy, which refer to latest [nature literature molecular mechanisms of cell death](https://www.nature.com/articles/s41418-017-0012-4). 
 - With XDeathDB platform, users can search specific interactions from vast interdependent sub-networks that occur in the realm of cell death, including any genes, any pathways and 12 cell death modes. 
@@ -91,7 +98,6 @@
 - **Co-guide doctoral students:** Enze Liu, Aida Yazdanparast 
 - **Post-doctoral fellow:** Abhishek Majumdar, Tao Han
 
-
 ### CONTRIBUTIONs TO SCIENCE
 
 **Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 39 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
@@ -110,6 +116,7 @@
 - [2] Yongsheng Ding, Yizhen Shen, Lihong Ren, and **Lijun Cheng**, Dynamic and collective analysis of membrane protein interaction network based on gene regulatory network model, Neurocomputing, 2012, 98(3):151-158.
 - [3] **Lijun Cheng**, Yongsheng Ding*, Hao Kuangrong, and Yifan Hu. An ensemble kernel classifier with immune clonal selection algorithm for automatic discriminant of primary open-angle glaucoma. Neurocomputing. 2012; 83(15):1-11.
 - [4] **Lijun Cheng**, Pankita H Pandya, Enze Liu, Pooja Chandra, Limei Wang, Mary E Murray, Jacquelyn Carter, Michael Ferguson, Mohammad Reza Saadatzadeh, Khadijeh Bijangi-Visheshsaraei, Mark Marshall, Lang Li*, Karen E Pollok*, and Jamie L Renbarger*. Integration of genomic copy number variations and chemotherapy-response biomarkers in pediatric sarcoma. BMC Medicine Genomics. 2019, 12(Suppl 1):23. 
+
 #### 2.	Optimal drug-combination identification
 **Dr.Cheng developed system biology models to identify effective drug combination treatment for these patients with resistance and metastasis by signaling pathway rewiring mechanism. Her calculational model system got extensive validation and application in different collaborative universities, such as Indiana University and Kentucky University in United State. These studies published on the top tie cancer journals, such as the Cancer Research (impact factor 9.8), Oncogene (impact factor, 7.97), Cancer (impact factor, 5.742), the Journal of Biological Chemistry (impact factor 4.238). The selected paper associated to the research lists as the following:**
 - [1] Pankita H Pandya*, **Lijun Cheng***, M Reza Saadatzadeh, Khadijeh Bijangi-Vishehsaraei, Shan Tang, Anthony L Sinn, Melissa A Trowbridge, Kathryn L Coy, Barbara J Bailey, Courtney N Young, Jixin Ding, Erika A Dobrota, Savannah Dyer, Adily Elmi, Quinton Thompson, Farinaz Barghi, Jeremiah Shultz, Eric A Albright, Harlan E Shannon, Mary E Murray, Mark S Marshall, Michael J Ferguson, Todd E Bertrand, L Daniel Wurtz, Sandeep Batra, Lang Li, Jamie L Renbarger, Karen E Pollok. Systems biology approach identifies prognostic signatures of poor overall survival and guides the prioritization of novel BET-CHK1 combination therapy for osteosarcoma. Cancers 2020, 12(9): 2426. (**Co-first authors**). (This study illustrates the MYC signaling pathway switching mechanism with RAD21 signaling pathway and seek BET-CHK1 combination drug treatment to overcome the ‘rewiring’)
@@ -117,6 +124,7 @@
 - [3] Zhuangzhuang Zhang, **Lijun Cheng**, Jie Li, Elia Farah, Nadia M Atallah, Pete E Pascuzzi, Sanjay Gupta, Xiaoqi Liu. Inhibition of the Wnt/β-catenin pathway overcomes resistance to enzalutamide in castration-resistant prostate cancer. Cancer research. 2018, 78 (12): 3147-3162. (This study illustrates the Wnt/ β-catenin pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the Wnt pathway activate.)
 - [4] Jin Li, Yang Huo, Xue Wu, Enze Liu, Zhi Zeng, Zhen Tian, Kunjie Fan, Daniel Stover, **Lijun Cheng**, Lang Li*. Essentiality and transcriptome-enriched pathway scores predict drug-combination synergy. Biology, 2020, 9(9):278-291. (This study is to qualify analysis crosstalk of pathway to predict drug combination.)
 - [5] Jinghui Liu, Daheng He, **Lijun Cheng**, Changkun Huang, Yanquan Zhang, Xiongjian Rao, Yifan Kong, Chaohao Li, Zhuangzhuang Zhang, Jinpeng Liu, Karrie Jones, Dana Napier, Eun Y Lee, Chi Wang, Xiaoqi Liu. p300/CBP inhibition enhances the efficacy of programmed death-ligand 1 blockade treatment in prostate cancer. Oncogene. 2020, 39:3939-3951. (This study illustrates the cell death immunology pathway switching mechanism with AR signaling pathways and seek new drug combination to overcome the new pathway activate.)
+
 #### 3. Drug repurpose: optimal therapeutic targets identification 
 **Dr.Cheng has developed several system biology optimization methods for therapeutic targets identification and associated effective drug recommendation for cancer. Systematic network analysis on cancer patients has multiple potential biological and clinical applications. A better understanding of the effects of gene/protein interaction may lead to the identification of cancer genes and correlated pathways, which, in turn, may offer better targets for drug development in cancer treatment. An optimizing subnetwork searching of drug targets algorithms is developed for drug targets selection, such as IODNE for triple negative breast cancer and SCNrank for pancreatic ductal adenocarcinoma. Associated study results are published on the top tie biomedicial journals, the Journal of the American Medical Informatics Association (impact factor, 4.112), BMC Medicine Genomics (impact factor, 3.17) and Genes (impact factor, 2.984).**
 - [1] Sai Mounika Inavolu, Milan Radovich, Varshini Vasudevaraja, Kinnebrew, Garrett Hess, Shijun Zhang, Jamie Renbarger, and **Lijun Cheng***, IODNE: An Integrated Optimization method for identifying the Deregulated sub-NEtwork for precision medicine in cancer, CPT: Pharmacometrics & Systems Pharmacology, 2017, 6(3):168-176. 
