@@ -94,7 +94,7 @@
 - **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
 - **Undergraduate Students**: 180 students per year from year 1998 to year 2008; 21 students in year 2017; 18 students in year 2018;
 - **Masters Students:** Pooja Chandra, Sai Mounika Inavolu, Varshini Vasudevaraja, Aniruddha Vikram Pawar
-- **Co-guide doctoral students:** Enze Liu, Aida Yazdanparast 
+- **Joint-guide doctoral students:** Enze Liu, Aida Yazdanparast 
 - **Post-doctoral fellow:** Abhishek Majumdar, Tao Han
 
 ### CONTRIBUTIONS TO SCIENCE
