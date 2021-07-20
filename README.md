@@ -1,10 +1,10 @@
-# Welcome to Lijun Cheng Lab Pages
+# Welcome to Lijun Cheng Lab
 ![Framework](./Lijun_photo.jpg)
 - This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
 - Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
 
 # Lijun Cheng Ph.D
-### 01/2018-, Assistant professor, Department of biomedical informatics, College of medicine, Ohio state university (OSU)
+### 01/2018-, Assistant Professor, Department of Biomedical Informatics, College of Medicine, Ohio State University (OSU)
 - [Introduction on OSU webpage](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
