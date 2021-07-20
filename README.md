@@ -1,4 +1,4 @@
-# Welcome to Lijun Cheng Lab
+# Welcome to Lijun Cheng Lab Pages
 ![Framework](./Lijun_photo.jpg)
 - This repository houses the Lijun Lab website, which is shared among members through Github and hosted by Dr.Lijun Cheng.
 - Lab members should keep their own pages current, as well as contribute to the lab news feed and update research themes and study systems as appropriate.
@@ -8,14 +8,14 @@
 - [Introduction on OSU webpage](https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/lijun-cheng)
 - Contact: 1800 Cannon Drive, Columbus, OH 43210, United State
 - Email: lijun.cheng@osumc.edu
+- The full journal publication list [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
+- All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
+
 
 ## AREA OF EXPERTISE
 
 ### Computational precision medicine and drug development
 - The aim of "precision medicine" is to devise individualized treatment strategies and therapies. Artificial Intelligence (AI) methods play an important role in predicting the efficacy of drugs from clinical study data, based on patient characteristics. Dr. Cheng focuses on new AI mathematical methods development that efficiently identify the characteristics that are relevant for molecular mechanism of drug resistance, disease progression and an optimal drug recommendation in precision medicine.
-
-- The full journal publication list [NCBI MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
-- All papers list on [google scholar](https://scholar.google.com/citations?hl=en&user=UtDzFE8AAAAJ&view_op=list_works)
 
 #### The new AI mathematical methods development for drug response and side-effects predictions in precision medicine. 
 - Identifying subgroups of patients who respond particularly well to the active agent and do not have an elevated risk of side-effects by multi-omics data integration analysis. 
