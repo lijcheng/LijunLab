@@ -53,24 +53,32 @@
 - A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. 
 - The DRPM connected the evidence from patients to the basic science experiment to generate a therapeutic hypothesis providing a strong theoretical basis.
 - [User evaluation and feedback, usability surveys to DRPM](https://osu.az1.qualtrics.com/jfe/form/SV_24D9IO4eRc6lQnb)
-- Reference: <b>Cheng, Lijun </b>, Abhishek Majumdar, Daniel Stover, Shaofeng Wu, Yaoqin Lu, and Lang Li. 2020. "Computational Cancer Cell Models to Guide Precision Breast Cancer Medicine" Genes 11, no. 3: 263. https://doi.org/10.3390/genes11030263
+- <b> Reference:</b> <b>Cheng, Lijun </b>, Abhishek Majumdar, Daniel Stover, Shaofeng Wu, Yaoqin Lu, and Lang Li. 2020. "Computational Cancer Cell Models to Guide Precision Breast Cancer Medicine" Genes 11, no. 3: 263. https://doi.org/10.3390/genes11030263
 
 #### [TrilogPM platform](https://pcm2019.shinyapps.io/TrilogyPM/)  for precision medicine– “the right treatment, for the right patient, at the right time."
 - TrilogPM, a comprehensive evidence knowledgebase in precision cancer medicine. It is a Shiny web server currently for searching drug, target, and genome variation (biomarkers) in copy number variation, mutation and fusion, and cancer type and associated drug treatment. The system integrated the most famous six precision medicine database together to provide a comprehensive evidence knowledgebase in precision cancer medicine for clinical practice and clinical trial generate hypothesis. 
 - TrilogyPM software is freely available to biomedical researchers and educators in the non-profit sector.
 - [User evaluation and feedback, usability surveys to TrilogyPM](https://osu.az1.qualtrics.com/jfe/form/SV_4OrqJwO9vq5P28R)
+ 
+#### [PAAD_Immune](https://pcm2019.shinyapps.io/TrilogyPM/](https://pcm2019.shinyapps.io/PAAD_Immune/)  
+- How to turn cold tumors into hot tumors by regulating immune checkpoint expression. 
+- Although targeting Plk1 to treat pancreatic cancer (PDAC) has been attempted in clinical trials, the results were not promising, and the mechanisms of resistance to Plk1 inhibition is poorly understood. In addition, the role of Plk1 in PDAC progression requires further elucidation.
+- Our latest results show combination immunotherapy and inhibition of the cell cycle can improve immunotherapy effective.
+- PAADImmune is developed to disclose the relationship between cell/gene expression variation and survival time in PDAC progression. The key cell/gene variation along with survival time can be identified and searched. The Kaplan Meier Curve is used to estimate the survival function in different cell type.
+- <b> Reference:</b> Zhang, Zhuangzhuang&, Lijun Cheng&, Jie Li&, Qi Qiao, Anju Karki, Derek B. Allison, Nuha Shaker et al. "Targeting Plk1 sensitizes pancreatic cancer to immune checkpoint therapy." Cancer Research 82, no. 19 (2022):3532-3548. & co-first author.
 
 #### [SCNrank](https://pcm2019.shinyapps.io/SCNrank/) platform, for therapeutic targets identification in cancer by a large screening CRISPR-Cas9 guidance
 - A novel artificial intelligence modeling (graph pattern matching and ranking algorithm) with a Shiny web server for potential cancer target identification, target molecular mechanism, and visualization.
 - The potential identified therapiutic targets and target molecular mechanism translation have been connected to clinical trails successfully in ten cancer types, colon adenocarcinoma, esophageal carcinoma, head and neck squamous cell carcinoma, kidney renal clear cell carcinoma, kidney renal papillary cell carcinoma, liver hepatocellular carcinoma, lung adenocarcinoma, lung squamous cell carcinoma, pancreatic adenocarcinoma, thyroid carcinoma.
 - The SCNrank system is datamining on big data to seek cancer potential targets, including expression profiles from tumor tissue, adjacent normal tissue, and cell-line; protein-protein interaction network (PPI); and CRISPR-Cas9 gene knock-out from cancer cell data. By gene functions variations of cancer cell lines from genome scale CRISPR-Cas9, SCNrank matches its functions with tumors to guide precision cancer medicine.
 - [User evaluation and feedback, usability surveys to SCNrank](https://osu.az1.qualtrics.com/jfe/form/SV_cN4aWPI7wU7IecR)
-- Reference: Enze Liu, Zhuang Zhuang Zhang, Xiaolin Cheng, Xiaoqi Liu & <b>Cheng, Lijun* </b>. SCNrank: spectral clustering for network-based ranking to reveal potential drug targets and its application in pancreatic ductal adenocarcinoma. BMC Med Genomics 13 (Suppl 5), 50 (2020). https://doi.org/10.1186/s12920-020-0681-6
+- <b> Reference:</b> Enze Liu, Zhuang Zhuang Zhang, Xiaolin Cheng, Xiaoqi Liu & <b>Cheng, Lijun* </b>. SCNrank: spectral clustering for network-based ranking to reveal potential drug targets and its application in pancreatic ductal adenocarcinoma. BMC Med Genomics 13 (Suppl 5), 50 (2020). https://doi.org/10.1186/s12920-020-0681-6
 
 #### [XDeath](https://pcm2019.shinyapps.io/LijunLab_Pathway_Enrichment/) for therapeutic target identification to induce cell death--- an interactive platform based on shinyapps cloud. 
 - XDeath is to identify the most significant therapeutic targets to induce cell death regulately. At the same time, the XDeath model is for the mechanism interpreting of disease progression and drug resistance.
 - Using a deep neural network model, XDeath, is used to precisely identify therapeutic targets that are associated with cancer initiation and/or progression. The unique method could detect molecular targeting of distinct deregulated active signaling elements that might contribute to their sustained growth, survival, and treatment resistance, therefore, is of immense therapeutic interest. These novel target identification approaches should improve the efficacy of current therapeutic treatments against highly aggressive, metastatic, recurrent, and lethal cancers. Twenty-nine pathways of cell death with eight cell death modes, apoptosis, autophagy, autosis, immunogenic (T cell, B cell), necroptosis, the broad-spectrum protein kinase C (PKC) ferroptosis, and proliferation (survival) are observed systematically. Molecular mechanisms of crosstalk during cancer progresses dynamically from the early stage to the advanced stage and is investigated in two independent datasets. Current platform, as prostate cancer for example, we demonstrated how these survival pathways crosstalk switches and caused prostate cancer progression. The optimal therapeutic targets are identified to stop progression, where TCGA: 550 patients for modelling construction, and GEO serial ID GSE21032: 177 patients for validation.
 - [User evaluation and feedback, usability surveys to XDeath](https://osu.az1.qualtrics.com/jfe/form/SV_2r8307kGQGELyf3) 
+- <b> Reference:</b> Zhuangzhuang Zhang&, <b>Lijun Cheng&</b>, Qiongsi Zhang, Yifan Kong, Daheng He, Kunyu Li, Matthew Rea, Jianling Wang, Ruixin Wang, Jinghui Liu, Zhiguo Li, Chongli Yuan, Enze Liu, Yvonne N. Fondufe-Mittendorf, Lang Li, Tao Han, Chi Wang, and Xiaoqi Liu*. Co-Targeting Plk1 and DNMT3a in Advanced Prostate Cancer. Advance Science. 2021, 8, 2101458.& co-first author.
 
 #### [XDeathDB](https://pcm2019.shinyapps.io/XDeathDB/)-- an intertact website on shinyapps cloud for programmed cell death and crosstalk search engine
 - XDeathDB creates a comprehensive search engine of molecular mechanisms of cell death and cell death interactions at the key therapeutic targets, cell death hallmark genes and pathway relevant to regulation of cell death. 
@@ -79,18 +87,24 @@
 - XDeathDB is a dynamic interactive system. Users can upload gene-expression profiles linked with phenotypes and create their own networks using their own genes of interest. In addition, users can import dynamic networks from a txt file directly and export dynamic networks to a txt file for further analysis. 
 - XDeathDB implemented dynamic network construction method in a modular way and allow users to freely select and combine these modules to obtain their own network construction.
 - [User evaluation and feedback, usability surveys to XDeathDB](https://osu.az1.qualtrics.com/jfe/form/SV_4VflPI9ItadcfWZ)
+- <b> Reference:</b> Gadepalli, V.S., Kim, H., Liu, Y. et al. XDeathDB: a visualization platform for cell death molecular interactions. Cell Death Dis 12, 1156 (2021). https://doi.org/10.1038/s41419-021-04397-x
+
 
 #### [DGCyTOF](https://github.com/lijcheng12/DGCyTOF) package --- Deep learning visualization for single cell subtype identification
 - Mass cytometry, or CyTOF (Fluidigm),  is a novel platform for high-dimensional phenotypic and functional analysis of single cells.
 - CyTOF is a variation of flow cytometry in which antibodies are labeled with heavy metal ion tags rather than fluorochromes.
 - A new tool Deep learning with Graphical clustering, called DGCyTOF, is developped to identify new cell population by CyTOF big data analysis.
+- <b> Reference:</b> Cheng L, Karkhanis P, Gokbag B, Liu Y, Li L (2022) DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data. PLoS Comput Biol 18(4): e1008885. https://doi.org/10.1371/journal.pcbi.1008885
 
 #### [Bi-EB](https://github.com/lijcheng12/Bi-EB) package --- biclustering method based on empirical bayesian
 - The genome molecular features shared between cell lines and tumors give us insight into discovering potential drug targets for cancer patients. 
 - Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1-2]. 
 - Based on the evidence, we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules of mRNA and protein. 
-- [1] Jiang GL, Zhang SJ, Yazdanparast A, Li M, Vikram Pawar A, Liu YL, Inavolu SM, Cheng LJ. Comprehensive comparison of molecular portraits between cell lines and tumors in breast cancer. BMC genomics, 2016, 17(7), 281-301.
-- [2] Yazdanparast A, Li L, Radovich M, Cheng LJ. Signal translational efficiency between mRNA expression and antibody-based protein expression for breast cancer and its subtypes from cell lines to tissue. International Journal of Computational Biology and Drug Design , 2018, 11 (1-2), 67-89.
+- <b>Reference</b>
+- [1] Aida Yazdanparast, Lang Li*, Chi Zhang, <b>Lijun Cheng*</b>. Bi-EB: Empirical Bayesian Biclustering for Multi-Omics Data Integration Pattern Identification among Species. Genes 2022, 13, 1982. https://doi.org/10.3390/genes13111982
+- [2] Jiang GL, Zhang SJ, Yazdanparast A, Li M, Vikram Pawar A, Liu YL, Inavolu SM, Cheng LJ. Comprehensive comparison of molecular portraits between cell lines and tumors in breast cancer. BMC genomics, 2016, 17(7), 281-301.
+- [3] Aida Yazdanparast, Lang Li, Milan Radovich, <b>Lijun Cheng*</b>. Signal translational efficiency between mRNA expression and antibody-based protein expression for breast cancer and its subtypes from cell lines to tissue. International Journal of Computational Biology and Drug Design , 2018, 11 (1-2), 67-89.
+
 
 ### STUDENTS
 - **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
