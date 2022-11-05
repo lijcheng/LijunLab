@@ -60,7 +60,7 @@
 - TrilogyPM software is freely available to biomedical researchers and educators in the non-profit sector.
 - [User evaluation and feedback, usability surveys to TrilogyPM](https://osu.az1.qualtrics.com/jfe/form/SV_4OrqJwO9vq5P28R)
  
-#### [PAAD_Immune](https://pcm2019.shinyapps.io/TrilogyPM/](https://pcm2019.shinyapps.io/PAAD_Immune/)  
+#### [PAAD_Immune](https://pcm2019.shinyapps.io/PAAD_Immune/)  
 - How to turn cold tumors into hot tumors by regulating immune checkpoint expression. 
 - Although targeting Plk1 to treat pancreatic cancer (PDAC) has been attempted in clinical trials, the results were not promising, and the mechanisms of resistance to Plk1 inhibition is poorly understood. In addition, the role of Plk1 in PDAC progression requires further elucidation.
 - Our latest results show combination immunotherapy and inhibition of the cell cycle can improve immunotherapy effective.
