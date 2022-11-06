@@ -48,6 +48,7 @@
 
 
 ### DEVELOPPED SOFTWARE
+
 #### [Drug response prediction in precision medicine, DRPM ](https://pcm2019.shinyapps.io/Drug_Response_Prediction/) interactive website platform 
 - DRPM is for predicting an individual's response to cancer target therapy by patient gene expression profile. To drug resistance patient, DRPM will recommend optional drug treatment.
 - A novel artificial intelligence modeling (layer optimal pattern matching) between cancer cells and tumors based on both gene expression profiles and drug response to seek optional experimental cells and drugs for individual patients. 
@@ -97,8 +98,10 @@
 - <b> Reference:</b> Cheng L, Karkhanis P, Gokbag B, Liu Y, Li L (2022) DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data. PLoS Comput Biol 18(4): e1008885. https://doi.org/10.1371/journal.pcbi.1008885
 
 #### [Bi-EB](https://github.com/lijcheng12/Bi-EB) package --- biclustering method based on empirical bayesian
+- Bi-EB tool detects the patterns shared from both integrated omics data and between species [1].
+- A fast empirical Bayesian biclustering (Bi-EB) algorithm is developed to detect the patterns shared from both integrated omics data and between species.
 - The genome molecular features shared between cell lines and tumors give us insight into discovering potential drug targets for cancer patients. 
-- Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1-2]. 
+- Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [2-3]. 
 - Based on the evidence, we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules of mRNA and protein. 
 - <b>Reference</b>
 - [1] Aida Yazdanparast, Lang Li*, Chi Zhang, <b>Lijun Cheng*</b>. Bi-EB: Empirical Bayesian Biclustering for Multi-Omics Data Integration Pattern Identification among Species. Genes 2022, 13, 1982. https://doi.org/10.3390/genes13111982
