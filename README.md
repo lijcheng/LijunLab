@@ -119,7 +119,7 @@
 
 ### CONTRIBUTIONS TO SCIENCE
 
-**Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 46 peer reviewed journal papers and 16 proceedings papers and 3 books. She obtained 5 authorized patents and 2 software copyrights. )**
+**Dr. Cheng’s complete list of published work can be accessed in MyBibliography and google scholar (Dr.Cheng has published 52 peer reviewed journal papers and 16 proceedings papers and 4 books. She obtained 5 authorized patents and 8 software copyrights. )**
 
 - The full journal publication list can be found in [NCBI MyBibliography Lijun](https://www.ncbi.nlm.nih.gov/myncbi/1lKz2YI8g8M5L/bibliography/public/)
 
