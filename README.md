@@ -103,6 +103,12 @@
 - [2] Jiang GL, Zhang SJ, Yazdanparast A, Li M, Vikram Pawar A, Liu YL, Inavolu SM, Cheng LJ. Comprehensive comparison of molecular portraits between cell lines and tumors in breast cancer. BMC genomics, 2016, 17(7), 281-301.
 - [3] Aida Yazdanparast, Lang Li, Milan Radovich, <b>Lijun Cheng*</b>. Signal translational efficiency between mRNA expression and antibody-based protein expression for breast cancer and its subtypes from cell lines to tissue. International Journal of Computational Biology and Drug Design , 2018, 11 (1-2), 67-89.
 
+#### [DSCN package] (https://github.com/lijcheng12/Bi-EB](https://github.com/tzcoolman/DSCN), Double-target Selection guided by CRISPR screening and Network
+- Double target selection guided by CRISPR screening and network model
+- DSCN is a tool that takes multi-omics data and prioritize target combinations that facilitate the development of novel treatment plan of complex diseases such as cancers. DSCN is derived from the previous work 'SCNrank', which takes the same input and prioritize single targets.
+- <b> How to cite:</b>
+- Enze Liu,Xue Wu,Lei Wang,Yang Huo,Huanmei Wu,Lang Li, Lijun Cheng. DSCN: Double-target selection guided by CRISPR screening and network,PLoS Computational Biology 18(8): e1009421. https://doi.org/10.1371/journal.pcbi.1009421
+
 
 ### STUDENTS
 - **Involvement in graduate/professional exams, theses, and dissertations and undergraduate research**
