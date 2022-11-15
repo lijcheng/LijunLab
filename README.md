@@ -56,11 +56,11 @@
 - TrilogyPM software is freely available to biomedical researchers and educators in the non-profit sector.
 - [User evaluation and feedback, usability surveys to TrilogyPM](https://osu.az1.qualtrics.com/jfe/form/SV_4OrqJwO9vq5P28R)
  
-#### [PAAD_Immune](https://pcm2019.shinyapps.io/PAAD_Immune/)  
+#### [PDAC_Immune](https://pcm2019.shinyapps.io/PDAC_Immune/)  
 - How to turn cold tumors into hot tumors by regulating immune checkpoint expression. 
 - Although targeting Plk1 to treat pancreatic cancer (PDAC) has been attempted in clinical trials, the results were not promising, and the mechanisms of resistance to Plk1 inhibition is poorly understood. In addition, the role of Plk1 in PDAC progression requires further elucidation.
 - Our latest results show combination immunotherapy and inhibition of the cell cycle can improve immunotherapy effective.
-- PAADImmune is developed to disclose the relationship between cell/gene expression variation and survival time in PDAC progression. The key cell/gene variation along with survival time can be identified and searched. The Kaplan Meier Curve is used to estimate the survival function in different cell type.
+- PDACImmune is developed to disclose the relationship between cell/gene expression variation and survival time in PDAC progression. The key cell/gene variation along with survival time can be identified and searched. The Kaplan Meier Curve is used to estimate the survival function in different cell type.
 - <b> How to cite:</b> Zhang, Zhuangzhuang&, Lijun Cheng&, Jie Li&, Qi Qiao, Anju Karki, Derek B. Allison, Nuha Shaker et al. "Targeting Plk1 sensitizes pancreatic cancer to immune checkpoint therapy." Cancer Research 82, no. 19 (2022):3532-3548. & co-first author.
 
 #### [SCNrank](https://pcm2019.shinyapps.io/SCNrank/) platform, for therapeutic targets identification in cancer by a large screening CRISPR-Cas9 guidance
